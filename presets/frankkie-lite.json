@@ -1,6 +1,6 @@
 {
-  "name": "Frankkie Lite v4.1",
-  "version": "4.1.0",
+  "name": "Frankkie Lite v1.0",
+  "version": "1.0.1",
   "created": "2025-12-30T06:09:12.572703Z",
   "description": "Streamlined version with core quality systems only. Lower context usage for performance-conscious users or smaller models.",
   "temperature": 0.95,
