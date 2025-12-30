@@ -132,4 +132,4 @@ text
 ## 🙏 Credits
 
 Built upon community presets: Sushi, DeepSeek, Poppet, Lucid Loom, Izumi, Nemo Engine.
-Commit changes.
+Commit changes. (All credit goes to their respective owners; if I happen to forget someone or the owners of the presets wants their name included, please enter in contact.)
